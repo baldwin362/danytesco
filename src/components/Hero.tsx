@@ -15,9 +15,9 @@ export default function Hero() {
         </p>
 
         <h1 className="mx-auto mt-6 max-w-4xl text-5xl font-semibold leading-[1.05] tracking-tight sm:text-7xl">
-          <span className="glow-text">My service is</span>
+          <span className="glow-text">I make your projects</span>
           <br />
-          <span className="glow-text">getting shit done</span>
+          <span className="glow-text">come to life</span>
         </h1>
 
         <p className="mx-auto mt-7 max-w-2xl text-lg leading-relaxed text-slate-400 sm:text-xl">

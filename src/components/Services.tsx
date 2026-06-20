@@ -32,7 +32,7 @@ export default function Services() {
           What I take on
         </p>
         <h2 className="glow-text mt-5 max-w-3xl text-4xl font-semibold leading-[1.08] tracking-tight sm:text-6xl">
-          Just fucking name it.
+          Just name it.
         </h2>
         <p className="mt-6 max-w-xl text-lg leading-relaxed text-slate-400">
           Whatever the shape of the work, the answer is the same. Here is what
@@ -63,7 +63,7 @@ export default function Services() {
         {/* Closing line */}
         <div className="mt-6 flex flex-col items-start gap-6 overflow-hidden rounded-2xl border border-white/[0.08] bg-gradient-to-r from-[#356cff]/[0.12] via-[#356cff]/[0.04] to-transparent p-8 sm:flex-row sm:items-center sm:justify-between sm:p-10">
           <p className="text-2xl font-semibold tracking-tight text-white sm:text-4xl">
-            Just fucking name it: I'm in.
+            Just name it: I'm in.
           </p>
           <a
             href="#contact"

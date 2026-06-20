@@ -15,7 +15,7 @@ export default function Footer() {
             Dany Tesco
           </span>
           <span className="font-mono text-xs text-slate-500">
-            My service is getting shit done
+            I make your projects come to life
           </span>
         </div>
 
